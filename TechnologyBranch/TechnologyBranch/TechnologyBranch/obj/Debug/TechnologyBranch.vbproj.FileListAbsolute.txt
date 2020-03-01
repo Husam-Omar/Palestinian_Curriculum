@@ -1,0 +1,11 @@
+C:\Users\homar\VisualStudioProjects\Palestinian_Curriculum\TechnologyBranch\TechnologyBranch\TechnologyBranch\bin\Debug\TechnologyBranch.exe.config
+C:\Users\homar\VisualStudioProjects\Palestinian_Curriculum\TechnologyBranch\TechnologyBranch\TechnologyBranch\bin\Debug\TechnologyBranch.exe
+C:\Users\homar\VisualStudioProjects\Palestinian_Curriculum\TechnologyBranch\TechnologyBranch\TechnologyBranch\bin\Debug\TechnologyBranch.pdb
+C:\Users\homar\VisualStudioProjects\Palestinian_Curriculum\TechnologyBranch\TechnologyBranch\TechnologyBranch\bin\Debug\TechnologyBranch.xml
+C:\Users\homar\VisualStudioProjects\Palestinian_Curriculum\TechnologyBranch\TechnologyBranch\TechnologyBranch\obj\Debug\TechnologyBranch.vbprojAssemblyReference.cache
+C:\Users\homar\VisualStudioProjects\Palestinian_Curriculum\TechnologyBranch\TechnologyBranch\TechnologyBranch\obj\Debug\TechnologyBranch.Form1.resources
+C:\Users\homar\VisualStudioProjects\Palestinian_Curriculum\TechnologyBranch\TechnologyBranch\TechnologyBranch\obj\Debug\TechnologyBranch.Resources.resources
+C:\Users\homar\VisualStudioProjects\Palestinian_Curriculum\TechnologyBranch\TechnologyBranch\TechnologyBranch\obj\Debug\TechnologyBranch.vbproj.GenerateResource.cache
+C:\Users\homar\VisualStudioProjects\Palestinian_Curriculum\TechnologyBranch\TechnologyBranch\TechnologyBranch\obj\Debug\TechnologyBranch.exe
+C:\Users\homar\VisualStudioProjects\Palestinian_Curriculum\TechnologyBranch\TechnologyBranch\TechnologyBranch\obj\Debug\TechnologyBranch.xml
+C:\Users\homar\VisualStudioProjects\Palestinian_Curriculum\TechnologyBranch\TechnologyBranch\TechnologyBranch\obj\Debug\TechnologyBranch.pdb
