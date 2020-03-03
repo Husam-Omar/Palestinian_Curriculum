@@ -1,5 +1,12 @@
 ﻿Public Class ClsTechnology
     Inherits ClsStudent
+#Region "Constructer"
+    Public Sub New(_id As Integer, _name As String, _birthDate As Date, tempArray1() As Integer, tempArray2() As Integer)
+        MyBase.New(_id, _name, _birthDate)
+        mcMarks = tempArray1
+        mbMarks = tempArray2
+    End Sub
+#End Region
 #Region "Attributes"
     Private sum1 As Integer = 0
     Private sum2 As Integer = 0
@@ -107,7 +114,7 @@
         Dim highestMark As Integer = 0
 
         For i = 0 To (mcMarks.Length - 1)
-            If mbMarks(i) >= 5 = Then
+            If mbMarks(i) >= 50 Then
                 count2 += 1
             End If
         Next
@@ -118,6 +125,14 @@
         Else
             sum2 = -99.0
             avg2 = -99.0
+        End If
+    End Sub
+
+    Public Overrides Sub caculate_average()
+        If avg1 <> -99 And avg2 <> -99 Then
+            avg = (sum1 + sum2) / 7
+        Else
+            avg = -99
         End If
     End Sub
 

@@ -1,4 +1,17 @@
 ﻿Public Class ClsStudent
+#Region "Constucters"
+    Public Sub New()
+        id = ""
+        name = ""
+        birthDate = ""
+    End Sub
+    Public Sub New(_id As Integer, _name As String, _birthDate As Date)
+        id = _id
+        name = _name
+        birthDate = _birthDate
+    End Sub
+
+#End Region
 #Region "Attributes"
     Public id As Integer
     Protected name As String
@@ -38,7 +51,7 @@
             Return avg
         End Get
     End Property
-    Public ReadOnly Property _result As Double
+    Public ReadOnly Property _result As String
         Get
             Return result
         End Get
